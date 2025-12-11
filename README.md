@@ -37,7 +37,7 @@ My Processing Sketch generates:
 A compact grid of the entire data range in a 14 day rotation.
 Each cell contains the date, element icon ( if logged in ) or a faint X (if not logged in).
 A title summarising the dataset.
-Icons for the seven elements are loaded and displayed at a scaled size to fit neatly in the grid
+Icons for the seven elements are loaded and displayed at a scaled size to fit neatly in the grid.
 
 ## TECHNOLOGY USED
 - Processing ( JAVA )
@@ -48,8 +48,8 @@ Icons for the seven elements are loaded and displayed at a scaled size to fit ne
 My project is inspired by the DEAR DATA art series, which transforms personal behaviour into hand-designed visual patterns. Instead of representing my data by hand, my version uses Processing to create a digital postcard, turning my everyday gameplay habits into a structured artistic pattern. It demonstrates how often I returned to the game and shows visual rhythms tied to the weekly element cycle that I created.
 
 ## How to Install
-1. Download or clone repository
-2. Open the .pde file in Processing
+1. Download or clone repository.
+2. Open the .pde file in Processing.
 3. Run the Dear-Data-Project in Processing.
   
 
