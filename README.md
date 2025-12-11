@@ -12,15 +12,15 @@ From September 1st to December 9th 2025, I collected data based on whether I log
  - Whether I opened the game or not ( Represented by 1 = opened and 0 = not )
 
 Each day is represented visually using one of the SEVEN Genshin elements:
-MONDAY = PYRO,
-TUESDAY = HYDRO,
-WEDNESDAY = GEO,
-THURSDAY = ELECTRO,
-FRIDAY = CRYO,
-SATURDAY = ANEMO,
-SUNDAY = DENDRO,
+- MONDAY = PYRO
+- TUESDAY = HYDRO
+- WEDNESDAY = GEO
+- THURSDAY = ELECTRO
+- FRIDAY = CRYO
+- SATURDAY = ANEMO
+- SUNDAY = DENDRO
 
-During the 100 days, i recorded my login habits using a digital diary.
+During the course of the 100 days, I recorded my login habits using a digital diary.
 
 ## DATA FORMAT
 
