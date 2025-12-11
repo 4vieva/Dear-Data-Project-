@@ -1,5 +1,5 @@
-# Dear-Data-Project-
-Dear Data - Genshin Impact Login Visualisation
+# Dear-Data-Project
+# Dear Data - Genshin Impact Login Visualisation
 
 This project is a virtual data-art visualisation inspired by The DEAR DATA project. My project tracks and visualises my daily login activity from a game I usually spend my free time on - Genshin Impact. I implemented Processing ( Java ) to represent my data. Each login day is coordinated with an element icon from Genshin Impact, creating a compact and aesthetic 14 day grid based representation of 100 days of gameplay behaviour.
 
@@ -7,9 +7,9 @@ This project is a virtual data-art visualisation inspired by The DEAR DATA proje
 
 From September 1st to December 9th 2025, I collected data based on whether I logged into Genshin Impact every day. When I did login, I recorded:
 
-Date
-Element of the day based on the rules i created,
-Whether I opened the game or not ( Represented by 1 = opened and 0 = not )
+ - Date
+ - Element of the day based on the rules i created,
+ - Whether I opened the game or not ( Represented by 1 = opened and 0 = not )
 
 Each day is represented visually using one of the SEVEN Genshin elements:
 MONDAY = PYRO
@@ -25,9 +25,9 @@ During the 100 days, i recorded my login habits using a digital diary.
 ## DATA FORMAT
 
 I converted my notes into a CSV File, Called "My Dear Data Login Collections.csv" containing:
-date = The calendar date
-opened = 1 if I logged in, 0 if I did not.
-element = The element assigned via weekday
+ - date = The calendar date
+ - opened = 1 if I logged in, 0 if I did not.
+ - element = The element assigned via weekday.
 
 This file is loaded into Processing and used to populate the visual grid.
 
